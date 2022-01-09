@@ -1,8 +1,6 @@
 #<h1 align="center">Hi 👋, I'm Bento Júlio</h1>
 <h3 align="center">Desenvolvedor Full-Stack</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariannexux" alt="ariannexux" /></a> </p>
-
 - 🌱 I’m currently learning **Docker, TDD, Clean Architecture and Message Broker**
 
 - 📝 I regularly write articles on [medium.com](medium.com)
@@ -11,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bento júlio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bento júlio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bento-j%C3%BAlio-45847a209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bento júlio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
