@@ -1,7 +1,7 @@
 #<h1 align="center">Hi 👋, I'm Bento Júlio</h1>
 <h3 align="center">Desenvolvedor Full-Stack --> FullCycle</h3>
 
-- 🌱 I’m currently learning **Docker, TDD, Clean Architecture and Message Broker**
+- 🌱 I’m currently learning **Docker, TDD, DDD, Clean Architecture and Message Broker**
 
 - 📝 I regularly write articles on [medium.com](medium.com)
 
