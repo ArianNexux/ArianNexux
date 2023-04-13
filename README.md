@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Docker, TDD, DDD, Clean Architecture and Message Broker**
 
-- 📝 I regularly write articles on [medium.com](medium.com)
+- 📝 I regularly write articles on [([https://dev.to/](https://dev.to/ariannexux))
 
 - 📫 How to reach me **ariannexux0101@gmail.com**
 
