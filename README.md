@@ -1,11 +1,11 @@
 #<h1 align="center">Hi 👋, I'm Bento Júlio</h1>
 <h3 align="center">Desenvolvedor Full-Stack --> FullCycle</h3>
 
-- 🌱 I’m currently learning **Docker, TDD, DDD, Clean Architecture and Message Broker**
+- 🌱 I’m currently learning **Docker, TDD, DDD, Clean Architecture, Golang and Message Broker**
 
 - 📝 I regularly write articles on [([https://dev.to/](https://dev.to/ariannexux))
 
-- 📫 How to reach me **ariannexux0101@gmail.com**
+- 📫 How to reach me **bentojulio2022@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
